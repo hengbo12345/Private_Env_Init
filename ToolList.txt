@@ -1,0 +1,15 @@
+1, Editor:
+	vim
+	emacs
+
+2, Debugger:
+	GDB
+	DDMS
+	addr2line
+
+3, IDE:
+	SourceInsight
+	Eclipse
+
+4, OS:
+	Ubuntu 12.04
